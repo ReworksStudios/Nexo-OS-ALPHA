@@ -1,0 +1,8 @@
+[
+  {
+    "channel" : "xfce4-desktop",
+    "property" : "/desktop-icons/style",
+    "type" : "int",
+    "value" : "2"
+  }
+]
